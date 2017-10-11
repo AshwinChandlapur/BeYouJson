@@ -1,14 +1,20 @@
 {
 	"android": [{
-			"img": "https://image.flaticon.com/icons/svg/203/203262.svg",
-			"name": "HPN is Awesome..OKOKOKOKOK",
-			"content": "Dont Worrry....Aal Izzzz Well!!ookokookokookokookokookokookokookokookokookokookokookokookok . ookokookok",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/aloe-vera.png",
+			"name": "Aloe Vera",
+			"content": "Extract fresh aloe vera gel from an aloe leaf and apply it on your skin. Leave it on until it dries completely before washing it off. Repeat daily for about a month or more.",
 			"videoUrl": "n/a"
 		},
 		{
-			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-			"name": "Nougat",
-			"content": "content level 24 - 25",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/powder-bottle.png",
+			"name": "Multani Mitti",
+			"content": "Multani mitti is great for exfoliating your skin to remove dead skin cells and get rid of blemishes. It also absorbs excess oil and has a skin-lightening effect.mix one teaspoon each of tomato juice and sandalwood powder in two teaspoons of Multani Mitti to make a smooth paste. Spread it evenly on your skin, and leave it on for 20 minutes before rinsing it off.",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/006-tomato.png",
+			"name": "Tomato",
+			"content": "Being rich in vitamin C and antioxidants, tomato juice is excellent for creating glowing and blemish-free skin. Massage your skin with tomato pulp.Leave it on for 10 to 15 minutes, and then rinse it off with cool water.Follow this simple routine daily for several weeks or until you get the desired results.",
 			"videoUrl": "n/a"
 		}
 	]
