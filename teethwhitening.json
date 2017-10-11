@@ -1,15 +1,21 @@
 {
 	"android": [{
-			"img": "https://image.flaticon.com/icons/svg/203/203262.svg",
-			"name": "HPN is Awesome..OKOKOKOKOK",
-			"content": "Dont Worrry....Aal Izzzz Well!!ookokookokookokookokookokookokookokookokookokookokookokookok . ookokookok",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/003-strawberry.png",
+			"name": "Strawberry",
+			"content": "Mash up one or two strawberries, and add about a teaspoon of baking soda.rub this mix on your teeth for five to seven minutes.floss out any strawberry seeds that still may be lingering between teeth.Strawberries contain malic acid, which is great for dissolving coffee, red wine, and tea stains on teeth",
 			"videoUrl": "n/a"
 		},
 		{
-			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-			"name": "Nougat",
-			"content": "content level 24 - 25",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/004-banana.png",
+			"name": "Banana",
+			"content": "Rub the inside of the banana peel against your top and bottom teeth, until they are completely coated in a layer of banana paste.Once your teeth are coated, sit back and let the banana paste work its magic for approximately ten minutes.Banana peel has minerals such as potassium, magnesium and manganese which are absorbed by the teeth, making them whiter.",
 			"videoUrl": "n/a"
-		}
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/001-coal.png",
+			"name": "Charcoal",
+			"content": "Mix charcoal with a small amount of water, and gently apply it to all the surfaces of the teeth.Leave the activated charcoal in place for two minutes, and then rinse with water until all of the charcoal is gone.",
+			"videoUrl": "n/a"
+		}   
 	]
 }
