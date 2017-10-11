@@ -1,14 +1,26 @@
 {
 	"android": [{
-			"img": "https://image.flaticon.com/icons/svg/203/203262.svg",
-			"name": "HPN is Awesome..OKOKOKOKOK",
-			"content": "Dont Worrry....Aal Izzzz Well!!ookokookokookokookokookokookokookokookokookokookokookokookok . ookokookok",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/003-coffee.png",
+			"name": "Coffee Scrub",
+			"content": "Mix together the coconut oil and ground coffee and apply to your face using circular motions. Avoid getting the mixture in your eyes, nose and mouth.Leave on for at least 15 minutes up to an hour.Rinse off with warm water and enjoy your glowing skin!",
 			"videoUrl": "n/a"
 		},
 		{
-			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-			"name": "Nougat",
-			"content": "content level 24 - 25",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/004-tomato.png",
+			"name": "Tomato Scrub",
+			"content": "Cut tomato in half and dip it in the sugar. Next, rub your face with the tomato in a circular motion. Leave it on for ten minutes and then rinse.Tomatoes have lycopene in them, that’s what gives it its deep red color. Lycopene is an antioxidant that helps protects your skin from dangerous UV sun rays and it also prevents wrinkles by maintaining your skin’s elasticity. Sugar is also great for your skin because it’s a natural humectant. Humectants help retain moisture, so the sugar helps pull moisture into your skin and keep it there.",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-papaya.png",
+			"name": "Papaya Scrub",
+			"content": "Blend or mash up the soft ripe papaya into a lump-free puree.Add the honey and lemon juice and mix well.Apply the face mask onto your clean face and let it dry for 15 minutes.When the time is up, gently use warm water to loosen the face mask.Do a final rinse off with cold water. Pat your face dry with a clean towel. (Highly Recommended for Oily Skin)",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/001-soda.png",
+			"name": "Sugar-Oil Scrub",
+			"content": "1/2 cup sugar ,1/2 cup Oilive/Coconut oil.Mix all ingredients and store in an air tight jar. Use 1 tablespoon as needed in the shower. Scrub Face with the mixture and rinse will. it will leave your skin feeling like silk.",
 			"videoUrl": "n/a"
 		}
 	]
