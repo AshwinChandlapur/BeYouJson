@@ -1,15 +1,29 @@
 {
 	"android": [{
-			"img": "https://image.flaticon.com/icons/svg/203/203262.svg",
-			"name": "HPN is Awesome..OKOKOKOKOK",
-			"content": "Dont Worrry....Aal Izzzz Well!!ookokookokookokookokookokookokookokookokookokookokookokookok . ookokookok",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-lucky-egg.png",
+			"name": "Egg",
+			"content": "Separate the yolk from the white and rinse your face. Pat your face dry and then apply a thin layer of egg white over your skin.Allow the first layer to dry. Carefully apply a second layer of egg white over the tissue (try dipping your fingers in it and dabbing it on so the tissue doesn’t slide around a bunch. Let this layer dry as well before applying a third (optional.) When the mask is dry, your face may feel tight-this is supposed to happen. Peel the tissue off, and then gently wash your face to remove any residue. Pat dry and moisturize as usual.",
 			"videoUrl": "n/a"
 		},
 		{
-			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-			"name": "Nougat",
-			"content": "content level 24 - 25",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/001-tea.png",
+			"name": "Green Tea",
+			"content": "Boil about one cup (8 ounces) of water and then remove from heat.Steep two bags or a tea ball containing about two teaspoons of organic green tea for one hour.Pour liquid into a glass or ceramic bowl and cool until lukewarm.Dab liquid onto blackheads and allow it to dry for at least 10 minutes.Rinse with cool water, pat dry and then moisturize with an all-natural moisturizer.",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/004-honey.png",
+			"name": "Honey",
+			"content": "Heat about a tablespoon of pure raw honey in a small jar until it is warm to the touch (placing the jar of honey into a bowl of very hot water will do the trick).Dab some of the warm honey onto any blackheads and allow it to soak in for about 10 minutes.Remove with a warm, damp cloth.Honey is both antibacterial and antiseptic, properties that help remove blackheads by destroying germs or impurities that clog pores",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/005-lemon.png",
+			"name": "Lemon",
+			"content": "Lemon juice contains alpha-hydroxy acid (AHA) citric acid which works as a natural astringent to remove dead skin, making it perfect for unstopping clogged pores.First, wash your face with your favorite gentle, natural cleanser.Squeeze about one teaspoon of juice from an organic lemon into a glass or ceramic bowl.Dip a cotton ball into the lemon juice and dab it onto any blackheads that you have.Allow it to dry for at least 10 minutes before rinsing with cool water.",
 			"videoUrl": "n/a"
 		}
+		 
+		
 	]
 }
