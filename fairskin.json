@@ -1,14 +1,14 @@
 {
 	"android": [{
-			"img": "https://image.flaticon.com/icons/svg/203/203262.svg",
-			"name": "HPN is Awesome..OKOKOKOKOK",
-			"content": "Dont Worrry....Aal Izzzz Well!!ookokookokookokookokookokookokookokookokookokookokookokookok . ookokookok",
-			"videoUrl": "n/a"
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/009-orange.png",
+			"name": "Orange Peel FacePack",
+			"content": "Grind the dried Orange Peels till you get a powder. Mix a tablespoon of this powder with yogurt till you get a smooth paste. \n Apply this paste to your face and keep it on for about 20 minutes. Rinse with Cold Water.",
+			"videoUrl": "https://www.youtube.com/watch?v=tfT08CJ2XW4"
 		},
 		{
-			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-			"name": "Nougat",
-			"content": "content level 24 - 25",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/008-ice-cream.png",
+			"name": "Yogurt & Lemon Facepack",
+			"content": "Mix the yogurt and lemon juice thoroughly.\nApply the paste on face and leave it for 20 minutes. Wash with Cold Water.",
 			"videoUrl": "n/a"
 		}
 	]
