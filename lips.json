@@ -1,14 +1,20 @@
 {
 	"android": [{
-			"img": "https://image.flaticon.com/icons/svg/203/203262.svg",
-			"name": "HPN is Awesome..OKOKOKOKOK",
-			"content": "Dont Worrry....Aal Izzzz Well!!ookokookokookokookokookokookokookokookokookokookokookokookok . ookokookok",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/rose.png",
+			"name": "Coconut-Rose LipBalm",
+			"content": "1/8 cup Coconut Oil ,1/4 cup Beeswax ,1/8 cup Shea Butter ,1 tsp Coconut or Vanilla Extract,1/4 cup Rose Petals (fresh or dried),1 tsp Sweet Almond Oil.       Measure all of the ingredients into a small saucepan. Heat on low until everything is melted. Strain petals if you wish. Pour into sanitized containers of your choice. Let cool completely (couple hours) and they’re ready to use! ",
 			"videoUrl": "n/a"
 		},
 		{
-			"img": "http://timesofindia.indiatimes.com/photo/msid-58494151/58494151.jpg?64709",
-			"name": "Nougat",
-			"content": "content level 24 - 25",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/aloe-vera.png",
+			"name": "Aloe-Vera",
+			"content": "Apply a thin layer of fresh aloe vera gel on the lips and let it dry.Rinse with lukewarm water.Aloe vera contains a flavonoid called aloesin. This polyphenolic compound inhibits the pigmentation process in the skin, thus causing lightening of the lips ",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-apple.png",
+			"name": "Apple Cider Vinegar",
+			"content": "Dilute the vinegar in the water.Dab this on your lips with cotton and let it dry.Rinse after 10 to 12 minutes with lukewarm water.",
 			"videoUrl": "n/a"
 		}
 	]
