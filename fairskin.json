@@ -10,6 +10,12 @@
 			"name": "Yogurt & Lemon Facepack",
 			"content": "Mix the yogurt and lemon juice thoroughly.\nApply the paste on face and leave it for 20 minutes. Wash with Cold Water.",
 			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/007-milk.png",
+			"name": "Milk & Saffron",
+			"content": "Mix Milk and Saffron. Let Saffron stay for 3-4 hours.Wash your face, pat dry, apply this mix and keep it for 20 minutes. Wash with lukewarm water.",
+			"videoUrl": "n/a"
 		}
 	]
 }
