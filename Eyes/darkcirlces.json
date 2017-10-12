@@ -1,20 +1,32 @@
 {
 	"android": [{
 			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/rose.png",
-			"name": "Coconut-Rose LipBalm",
-			"content": "1/8 cup Coconut Oil ,1/4 cup Beeswax ,1/8 cup Shea Butter ,1 tsp Coconut or Vanilla Extract,1/4 cup Rose Petals (fresh or dried),1 tsp Sweet Almond Oil.       Measure all of the ingredients into a small saucepan. Heat on low until everything is melted. Strain petals if you wish. Pour into sanitized containers of your choice. Let cool completely (couple hours) and they’re ready to use! ",
+			"name": "Rose Water",
+			"content": "Soak a few drops of rose water on two cotton pads for 2 to 3 minutes.Apply to the affected area for 15 minutes. Repeat twice daily until results are visible.",
 			"videoUrl": "n/a"
 		},
 		{
-			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/aloe-vera.png",
-			"name": "Aloe-Vera",
-			"content": "Apply a thin layer of fresh aloe vera gel on the lips and let it dry.Rinse with lukewarm water.Aloe vera contains a flavonoid called aloesin. This polyphenolic compound inhibits the pigmentation process in the skin, thus causing lightening of the lips ",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/006-potato.png",
+			"name": "Potatoes",
+			"content": "Grate 1 to 2 chilled potatoes to extract its juice.Use a cotton ball to apply the juice to the affected area.Leave for 10 to 15 minutes and rinse with cool water.Repeat regularly until results are visible.Note: Alternately place thick potato slices on the affected areas for 12 to 15 minutes.",
 			"videoUrl": "n/a"
 		},
 		{
-			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-apple.png",
-			"name": "Apple Cider Vinegar",
-			"content": "Dilute the vinegar in the water.Dab this on your lips with cotton and let it dry.Rinse after 10 to 12 minutes with lukewarm water.",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-mint.png",
+			"name": "Mint",
+			"content": "Apply crushed mint leaves to the affected area.Leave for 5 to 10 minutes and wipe with clean cloth.Repeat regularly until results are visible. Mint is known for its anti-inflammatory properties. Therefore, using mint juice on the skin can help soothe mosquito bites and other irritations. It also helps to soften and calm dry or itchy skin.",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/007-milk.png",
+			"name": "Turmeric",
+			"content": "Soak 2 teaspoons of fenugreek seeds in water for 3 to 5 hours.Add 1/2 teaspoon of turmeric powder and 1 teaspoon of milk and grind into a paste.Apply to the affected area.Leave for 15 to 20 minutes and rinse with cold water.Repeat daily until results are visible.",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/001-jasmine.png",
+			"name": "Jasmine Oil",
+			"content": "Mix 2 drops of jasmine essential oil and 2 tablespoons of either olive, almond, or vegetable oil.Apply to the affected area and gently massage for 3 to 4 minutes.Leave for 20 to 30 minutes and rinse with lukewarm water.Repeat regularly until results are visible.",
 			"videoUrl": "n/a"
 		}
 	]
