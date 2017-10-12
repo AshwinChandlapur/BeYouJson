@@ -22,6 +22,24 @@
 			"name": "Sugar-Oil Scrub",
 			"content": "1/2 cup sugar ,1/2 cup Oilive/Coconut oil.Mix all ingredients and store in an air tight jar. Use 1 tablespoon as needed in the shower. Scrub Face with the mixture and rinse will. it will leave your skin feeling like silk.",
 			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/007-milk.png",
+			"name": "Milk-Gram Flour Honey Scrub",
+			"content": "Mix Gram flour, milk and Honey and Stir Well. Wet your face with water and apply evenly. With fingertips, massage in circular motion. Wash off with water and apply moisturizer to prevent dryness",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-avocado.png",
+			"name": "Avocado Scrub",
+			"content": "Mix avocado and finely grounded oats. Pour a drop of honey over it. Mix it till you get paste like consistency. Scrub it on face after applying evenly. Rinse with warm water. This scrub provides moisture, softness and glow.",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/001-lettuce.png",
+			"name": "Dry Lettuce Scrub",
+			"content": "Blend dried parsley and lettuce. Add Wheat bran and oatmeal to it. Pour few drops of coconut oil and mix it well. Apply on face evenly and masssage. Clean with lukewarm water. Use atleast twice a week.",
+			"videoUrl": "n/a"
 		}
 	]
 }
