@@ -1,20 +1,32 @@
 {
 	"android": [{
 			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/rose.png",
-			"name": "Coconut-Rose LipBalm",
-			"content": "1/8 cup Coconut Oil ,1/4 cup Beeswax ,1/8 cup Shea Butter ,1 tsp Coconut or Vanilla Extract,1/4 cup Rose Petals (fresh or dried),1 tsp Sweet Almond Oil.       Measure all of the ingredients into a small saucepan. Heat on low until everything is melted. Strain petals if you wish. Pour into sanitized containers of your choice. Let cool completely (couple hours) and they’re ready to use! ",
+			"name": "Milk",
+			"content": "Apply some cold milk to eyebrows and leave it on for about 20
+minutes.Wash off.Repeat twice everyday for 2 months.",
 			"videoUrl": "n/a"
 		},
 		{
 			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/aloe-vera.png",
-			"name": "Aloe-Vera",
-			"content": "Apply a thin layer of fresh aloe vera gel on the lips and let it dry.Rinse with lukewarm water.Aloe vera contains a flavonoid called aloesin. This polyphenolic compound inhibits the pigmentation process in the skin, thus causing lightening of the lips ",
+			"name": "Olive Oil",
+			"content": "Massage eyebrows with olive oil to thicken hair growth.Take care to
+massage in the same direction as the growth.As a bonus, the existing
+hair on the brow as well looks darker and softer with this massage.",
 			"videoUrl": "n/a"
 		},
 		{
 			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-apple.png",
-			"name": "Apple Cider Vinegar",
-			"content": "Dilute the vinegar in the water.Dab this on your lips with cotton and let it dry.Rinse after 10 to 12 minutes with lukewarm water.",
+			"name": "Almond",
+			"content": "Soak a teaspoon of fenugreek seeds in water for
+4 to 5 hours and make a paste.Apply on brows at bedtime.Wash off
+in the morning.You can also mix almond oil to this paste.",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-apple.png",
+			"name": "Egg Yolk",
+			"content": "Apply egg yolk with finger tip or cotton balls on
+your eyebrows and keep it for 15 to 20 minutes and then wash off.",
 			"videoUrl": "n/a"
 		}
 	]
