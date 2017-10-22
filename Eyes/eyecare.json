@@ -1,7 +1,7 @@
 {
 	"android": [{
 			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/rose.png",
-			"name": "Coconut-Rose LipBalm",
+			"name": "Eat Vitamin A&C Foods",
 			"content": "Eat adequate quantities of vitamin A and vitamin C; fill up on carrots,
 sweet potatoes, squash and spinach for vitamin A and guavas, bell peppers,
 citrus fruits and papayas for vitamin C.",
@@ -9,15 +9,52 @@ citrus fruits and papayas for vitamin C.",
 		},
 		{
 			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/aloe-vera.png",
-			"name": "Aloe-Vera",
-			"content": "Apply a thin layer of fresh aloe vera gel on the lips and let it dry.Rinse with lukewarm water.Aloe vera contains a flavonoid called aloesin. This polyphenolic compound inhibits the pigmentation process in the skin, thus causing lightening of the lips ",
+			"name": "Palm Massage",
+			"content": "A very simple method to relax eyes
+and add sparkle to them is by rubbing the palms of your hands together till they
+become warm before placing them on closed eyes for a few minutes the eyes
+feel rested and fresh.",
 			"videoUrl": "n/a"
 		},
 		{
 			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-apple.png",
-			"name": "Apple Cider Vinegar",
-			"content": "Dilute the vinegar in the water.Dab this on your lips with cotton and let it dry.Rinse after 10 to 12 minutes with lukewarm water.",
+			"name": "Rinse Often",
+			"content": "Rinse your eyes well, after removing make-up
+with a remover.Wash well and pat the eyes gently with a soft towel to dry
+them.", "Keeping a bowl of hot water ready \u2013 first rub a piece of
+ice gently over eyelids in a circular movement, immediately follow this with
+applying cotton dipped in hot water or splash it on the eyes, repeat this hot
+and cold procedure 7-8 times.Not only do the eyes feel rested they
+definitely sparkle.",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/rose.png",
+			"name": "Gooseberry Splash",
+			"content": "Soak a teaspoon full of Indian gooseberry powder in a
+glass of water overnight, strain the water through a muslin cloth and splash
+eyes with this .",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/rose.png",
+			"name": "Meditate",
+			"content": "Remember to wear sunglasses to
+protect eyes from the glare of sunlight or strong, dusty winds.", "Try to
+relax with a bit of meditation, or yoga or deep breathing along with a positive
+attitude  your eyes will reflect inner peace.",
+			"videoUrl": "n/a"
+		},
+		{
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/rose.png",
+			"name": "Almond and Milk",
+			"content": "soak 5 to 6 almonds for
+overnight.Next, add 1 teaspoon of milk to this powder.Now, mix
+them together and apply this mixture to the eyes.After that, gently
+massage it for 3 to 5 minutes in a circular motion.Finally, leave it on
+your skin for 30 minutes before washing it off with clean water.",
 			"videoUrl": "n/a"
 		}
+		
 	]
 }
