@@ -1,15 +1,21 @@
 {
 	"android": [{
 			"imgUrl": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/rose.png",
-			"title": "Coconut-Rose LipBalm"
+			"title": "Coconut-Rose LipBalm",
+			"tag":"LIPS",
+			"newsUrl":"https://yourstory.com/2017/11/avani-artifact-kumaon/"
 		},
 		{
 			"imgUrl": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/aloe-vera.png",
-			"title": "Aloe-Vera"
+			"title": "Aloe-Vera",
+			"tag":"AloeVera",
+			"newsUrl":"https://yourstory.com/2017/11/instagram-stories-whatsapp-status-hit-300m-users/"
 		},
 		{
 			"imgUrl": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-apple.png",
-			"title": "Apple Cider Vinegar"
+			"title": "Apple Cider Vinegar",
+			"tag":"AloeVera",
+			"newsUrl":"https://yourstory.com/2017/11/instagram-stories-whatsapp-status-hit-300m-users/"
 		}
 	]
 }
