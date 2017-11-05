@@ -1,0 +1,21 @@
+{
+	"android": [{
+			"imgUrl": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/rose.png",
+			"title": "Coconusdfghjkt-Rose LipBalm",
+			"tag":"LIPS",
+			"newsUrl":"/AshwinChandlapur/BeYouJson/edit/master/Lifestyle/lifestyle.json"
+		},
+		{
+			"imgUrl": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/aloe-vera.png",
+			"title": "Aloedfghjkl-Vera",
+			"tag":"AloeVera",
+			"newsUrl":"https://yourstory.com/2017/11/instagram-stories-whatsapp-status-hit-300m-users/"
+		},
+		{
+			"imgUrl": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-apple.png",
+			"title": "Applefghjm, Cider Vinegar",
+			"tag":"AloeVera",
+			"newsUrl":"https://yourstory.com/2017/11/instagram-stories-whatsapp-status-hit-300m-users/"
+		}
+	]
+}
