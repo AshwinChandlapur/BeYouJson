@@ -1,19 +1,19 @@
 {
 	"android": [{
-			"imgUrl": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/rose.png",
-			"title": "Dark Circles",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/rose.png",
+			"name": "Dark Circles",
 			"content": "Don't Worry, We Got It.",
 			"tag": "darkcircles"
 		},
 		{
-			"imgUrl": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/006-potato.png",
-			"title": "Eye Brows",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/006-potato.png",
+			"name": "Eye Brows",
 			"content": "Shape them like a crescent moon",
 			"tag": "eyebrows"
 		},
 		{
-			"imgUrl": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-mint.png",
-			"title": "Eye Care",
+			"img": "https://raw.githubusercontent.com/AshwinChandlapur/BeYouJson/master/Images/Face/002-mint.png",
+			"name": "Eye Care",
 			"content": "Sparkle Them",
 			"tag": "eyecare"
 		}
